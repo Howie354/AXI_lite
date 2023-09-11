@@ -1,0 +1,3 @@
+../code/axi_lite_master.v
+../code/axi_lite_slave.v
+../code/axi_lite_top_tb.v
